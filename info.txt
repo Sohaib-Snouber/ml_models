@@ -1,0 +1,8 @@
+this cuda has been installed:
+https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=22.04&target_type=deb_network
+
+this cuDNN has been installed:
+https://developer.nvidia.com/cudnn-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=22.04&target_type=deb_network
+
+tensorrt has been installed using:
+sudo apt install tensorrt
